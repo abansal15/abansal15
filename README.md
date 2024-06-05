@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Jagriti](https://jagriti.netlify.app/)
 
-- 💬 Ask me about **HtmL,CSS,Javascript,React,Bootstrap,PHP,NodeJs,Git & Github,Tailwind**
+- 💬 Ask me about **HtmL, CSS, Javascript, React, MongoDB, MySql, Postgres, Bootstrap, PHP, NodeJs, Git & Github, Tailwind, NextJs**
 
 - 📫 How to reach me **2022abansal@gmail.com**
 
