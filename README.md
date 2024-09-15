@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **2022abansal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lnYUEBuslYAvYPgAbcAEaG035Zss02lg/view?usp=sharing](https://drive.google.com/file/d/1lnYUEBuslYAvYPgAbcAEaG035Zss02lg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
